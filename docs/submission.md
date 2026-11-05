@@ -4,7 +4,7 @@
 **Track / theme:** Indie developer · Build for Your World
 **Repo:** https://github.com/crystalphantom/video-evals
 **Live demo:** https://vreview.worker.hevo.dev (judge login provided in the form; sign-up is closed)
-**Demo video:** <link>
+**Demo video:** https://github.com/crystalphantom/video-evals/releases/download/demo-2026-11-04/vreview-demo.mp4
 
 ## One-liner
 vreview reviews a dubbed or AI-generated video the way a senior engineer reviews a pull request: timestamped
